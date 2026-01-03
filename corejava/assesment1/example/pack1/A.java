@@ -1,0 +1,15 @@
+package corejava.assesment1.example.pack1;
+
+public class A {
+
+    private int privateVar = 10;
+    int defaultVar = 20;          // default access
+    protected int protectedVar = 30;
+    public int publicVar = 40;
+    public void show() {
+        System.out.println("Private: " + privateVar);
+        System.out.println("Default: " + defaultVar);
+        System.out.println("Protected: " + protectedVar);
+        System.out.println("Public: " + publicVar);
+    }
+}
