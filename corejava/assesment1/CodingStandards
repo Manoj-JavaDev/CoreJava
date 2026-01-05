@@ -1,0 +1,21 @@
+Common violations include:
+
+Incorrect naming conventions
+
+Missing access modifiers
+
+Public instance variables
+
+Long or complex methods
+
+Empty catch blocks
+
+Magic numbers
+
+Unused variables/imports
+
+No JavaDocs
+
+Variable hiding
+
+Inconsistent formatting

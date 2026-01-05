@@ -1,0 +1,28 @@
+
+25. Explain how SonarLint helps in code quality.
+
+SonarLint is a static code analysis tool that detects issues while writing code.
+
+What SonarLint Detects:
+
+    Bugs
+
+    Code smells
+
+    Security vulnerabilities
+
+    Duplicated code
+
+    Poor coding practices
+
+Uses:
+
+    Real-time feedback in IDE
+
+    Improves maintainability
+
+    Enforces coding standards
+
+    Reduces technical debt
+
+    Helps write clean, readable code
