@@ -1,7 +1,4 @@
-package com.techouts.cj6;
-
-import java.io.FileInputStream;
-import java.io.IOException;
+package com.techouts.cj6.ExceptionHandling;
 
 public class CustomCheckedExceptionDemo {
 

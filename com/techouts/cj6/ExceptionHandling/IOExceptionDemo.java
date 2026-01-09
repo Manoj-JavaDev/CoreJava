@@ -1,4 +1,4 @@
-package com.techouts.cj6;
+package com.techouts.cj6.ExceptionHandling;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

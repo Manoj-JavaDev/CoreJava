@@ -1,4 +1,4 @@
-package com.techouts.cj6;
+package com.techouts.cj6.ExceptionHandling;
 
 import java.util.Scanner;
 

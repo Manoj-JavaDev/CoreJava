@@ -1,4 +1,4 @@
-package com.techouts.cj6;
+package com.techouts.cj6.ExceptionHandling;
 
 public class ClassNotFoundExceptionDemo {
 
