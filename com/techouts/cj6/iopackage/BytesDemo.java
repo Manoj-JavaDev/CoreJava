@@ -18,5 +18,7 @@ public class BytesDemo {
 
         byte[] m = "9".getBytes();
         System.out.println(Arrays.toString(m));
+
     }
 }
+
