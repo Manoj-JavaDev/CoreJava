@@ -1,0 +1,4 @@
+Hi 
+Hello 
+FileWriter is used to Write Unicode characters !!
+It is mostly used class to write data!
