@@ -1,0 +1,8 @@
+HI
+
+How
+Are
+you
+Today date is 19-01-2026
+Copied this using NIO package in java
+java.nio.package is introduced in jdk version 4
