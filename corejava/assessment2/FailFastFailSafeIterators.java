@@ -26,7 +26,7 @@ public class FailFastFailSafeIterators {
 
         Iterator<Integer> it = v.iterator();
 
-        it.remove();
+        v.add(100);
         while (it.hasNext()) {
             System.out.println(it.next());
 
@@ -34,7 +34,7 @@ public class FailFastFailSafeIterators {
 
         ListIterator<Integer> listIterator = v.listIterator();
 
-        listIterator.add(1000); // Doesn't give any error!!!
+        v.add(1000); // Doesn't give any error!!!
         while(listIterator.hasNext()){
             System.out.println(listIterator.next());
         }
